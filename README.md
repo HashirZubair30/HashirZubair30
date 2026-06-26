@@ -14,7 +14,7 @@
 
 - 💼 Software Engineer with experience building scalable and production-ready web applications.
 - 🚀 Passionate about Backend Development, REST APIs, System Design, and AI-powered applications.
-- 🌱 Currently learning **PostgreSQL** and improving backend architecture skills.
+- 🌱 Building scalable backend applications using PostgreSQL, Node.js and System Design.
 - 🤝 Experienced working with Agile teams and production software development.
 - 🎓 BS Computer Science — University of Management and Technology (UMT), Lahore.
 - 📧 Reach me at **hashirzubair800@gmail.com**
@@ -112,9 +112,26 @@ Full Stack music streaming platform including:
 
 ---
 
+## 🐍 Python Ecosystem
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+
+---
+
 ## 🤖 AI & Integrations
 
 ![Groq](https://img.shields.io/badge/Groq-LLM-black?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-5A31F4?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-FF6F00?style=for-the-badge)
+![Image Processing](https://img.shields.io/badge/Image%20Processing-4CAF50?style=for-the-badge)
+
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe)
 ![ImageKit](https://img.shields.io/badge/ImageKit-08C?style=for-the-badge)
 ![Multer](https://img.shields.io/badge/Multer-Node.js-success?style=for-the-badge)
@@ -145,12 +162,6 @@ Full Stack music streaming platform including:
 # 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=HashirZubair30&theme=tokyonight&no-frame=true&margin-w=15)
-
----
-
-# 📊 Activity Graph
-
-[![Hashir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HashirZubair30&theme=tokyo-night)](https://github.com/HashirZubair30)
 
 ---
 
